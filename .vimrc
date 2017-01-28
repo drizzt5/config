@@ -5,7 +5,8 @@
 " Get latest from: http://github.com/lucasoman/Conf/raw/master/.vimrc
 
 " load pathogen
-call pathogen#runtime_append_all_bundles()
+" call pathogen#runtime_append_all_bundles()
+" commented out package manager for now
 
 "set t_Co=256
 
